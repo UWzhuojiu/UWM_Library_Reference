@@ -23,4 +23,6 @@ The workflow is organized into the following notebooks:
 
 ## Notes
 
-Each notebook includes selected cell outputs to help illustrate the purpose and logic of each step in the workflow.
+- Each notebook includes selected cell outputs to help illustrate the purpose and logic of each step in the workflow.
+- The code has been simplified to remove redundant or overly complex steps, as well as to avoid potential issues related to proprietary or sensitive data.
+- For questions regarding the code, please feel free to contact **wgu53@wisc.edu**.
